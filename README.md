@@ -1,2 +1,2 @@
 # summary
-learn for the book and
+summary usually used thing
